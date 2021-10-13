@@ -1,0 +1,9 @@
+(module debug_ (layer F.Cu) (tedit 5FBB7BD4)
+  (fp_text reference REF** (at 0 -0.6) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value debug_ (at 0.2 -2.2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask))
+)

@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <!-- <file>dots.png</file> -->
+    <file>sandclock.png</file>
+    <!--file>arrow1.png</file-->
+    <!--file>error.png</file-->
+    <!--file>loading.gif</file-->
+    <file>ok.png</file>
+	<file>error.png</file>
+    <file>window_image.png</file>
+    <file>window_image.ico</file>
+	<file>network.png</file>
+  </qresource>
+</RCC>

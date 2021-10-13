@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.kdev4
+autoconf.json
+*/autoconf.json
+res.py
+*/res.py
+build/*
+csv/*
+!build/makefile
+\#*\#
+.\#*\#

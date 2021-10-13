@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name DM9162)(type Legacy)(uri ${KIPRJMOD}/DM9162.lib)(options "")(descr ""))
+  (lib (name QSPI_SRAM)(type Legacy)(uri ${KIPRJMOD}/QSPI_SRAM.lib)(options "")(descr ""))
+)

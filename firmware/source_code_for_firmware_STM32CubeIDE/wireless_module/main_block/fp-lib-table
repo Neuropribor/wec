@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name STM32F031G4U6)(type Legacy)(uri ${KIPRJMOD}/STM32F031G4U6.mod)(options "")(descr ""))
+  (lib (name main_block)(type KiCad)(uri ${KIPRJMOD}/main_block.pretty)(options "")(descr ""))
+)
